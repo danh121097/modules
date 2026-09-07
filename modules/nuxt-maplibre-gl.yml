@@ -11,7 +11,7 @@ learn_more: https://vue-maplibre-gl.pages.dev/guide/getting-started
 category: Libraries
 type: 3rd-party
 maintainers:
-  - name: Danh Nguyen
+  - name: Harry Nguyen
     github: danh121097
 compatibility:
   nuxt: '>=3.0.0'
