@@ -9,7 +9,7 @@ learn_more: https://vue-maptiler-gl.pages.dev/guide/ssr-nuxt
 category: Libraries
 type: 3rd-party
 maintainers:
-  - name: Danh Nguyen
+  - name: Harry Nguyen
     github: danh121097
 compatibility:
   nuxt: '>=3.0.0'
